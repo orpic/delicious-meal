@@ -63,7 +63,7 @@ const MealsSection = () => {
         </div>
 
         <div className="container all-recipes">
-          <a href="#" className="link">
+          <a href="#no-link" className="link">
             See all recipes &rarr;
           </a>
         </div>

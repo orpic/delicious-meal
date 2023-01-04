@@ -1,4 +1,5 @@
 import React from "react";
+import "./SingleCuts.css";
 
 const SingleCuts = ({
   imgMeal,
