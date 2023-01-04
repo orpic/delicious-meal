@@ -39,8 +39,9 @@ import logoDainik from "../assets/logo-dainik.png";
 import logoTimesOfIndia from "../assets/logo-times-of-india.png";
 
 // misc
-import meal1 from "../assets/meal-1.jpg";
-import meal2 from "../assets/meal-2.jpg";
+import meat1 from "../assets/meat-1.jpg";
+import meat2 from "../assets/meat-2.jpg";
+import meat3 from "../assets/meat-3.jpg";
 import eating from "../assets/misc-eating.jpg";
 import easyMeatLogo from "../assets/easy-meat.png";
 import chickenBowl from "../assets/chickenHero.png";
@@ -82,8 +83,9 @@ export default {
   logoDainik,
   logoTimesOfIndia,
 
-  meal1,
-  meal2,
+  meat1,
+  meat2,
+  meat3,
   eating,
 
   easyMeatLogo,
