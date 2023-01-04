@@ -32,18 +32,18 @@ import gallery11 from "../assets/gallery-11.jpg";
 import gallery12 from "../assets/gallery-12.jpg";
 
 // business logos (for featured in section)
-import logoBusinessInsider from "../assets/logo-business-insider.png";
-import logoForbes from "../assets/logo-forbes.png";
-import logoTechCrunch from "../assets/logo-techcrunch.png";
-import logoNewYorkTimes from "../assets/logo-the-new-york-times.png";
-import logoUsaToday from "../assets/logo-usa-today.png";
+import logoIndiaTv from "../assets/logo-india-tv.png";
+import logoZeeNews from "../assets/logo-zee-news.png";
+import logoNdtv from "../assets/logo-ndtv.png";
+import logoDainik from "../assets/logo-dainik.png";
+import logoTimesOfIndia from "../assets/logo-times-of-india.png";
 
 // misc
 import meal1 from "../assets/meal-1.jpg";
 import meal2 from "../assets/meal-2.jpg";
 import eating from "../assets/misc-eating.jpg";
-import hero from "../assets/misc-hero.png";
-import omniFoodLogo from "../assets/omnifood-logo.png";
+import easyMeatLogo from "../assets/easy-meat.png";
+import chickenBowl from "../assets/chickenHero.png";
 
 // eslint-disable-next-line
 export default {
@@ -76,15 +76,16 @@ export default {
   gallery11,
   gallery12,
 
-  logoBusinessInsider,
-  logoForbes,
-  logoTechCrunch,
-  logoNewYorkTimes,
-  logoUsaToday,
+  logoIndiaTv,
+  logoZeeNews,
+  logoNdtv,
+  logoDainik,
+  logoTimesOfIndia,
 
   meal1,
   meal2,
   eating,
-  hero,
-  omniFoodLogo,
+
+  easyMeatLogo,
+  chickenBowl,
 };

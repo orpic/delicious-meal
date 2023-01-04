@@ -20,16 +20,12 @@ const HeaderSection = () => {
       hrefLink: "#pricing",
       displayText: "Pricing",
     },
-    {
-      hrefLink: "#cta",
-      displayText: "Try for free",
-    },
   ];
 
   return (
     <header className="header">
-      <a href="#">
-        <img className="logo" alt="Omnifood logo" src={images.omniFoodLogo} />
+      <a href="#no_link">
+        <img className="logo" alt="Omnifood logo" src={images.easyMeatLogo} />
       </a>
 
       <nav className="main-nav">

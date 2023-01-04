@@ -5,24 +5,24 @@ import "./FeaturedSection.css";
 const FeaturedSection = () => {
   const featureImages = [
     {
-      imageSource: images.logoTechCrunch,
-      altText: "Techcrunch logo",
+      imageSource: images.logoZeeNews,
+      altText: "zee news logo",
     },
     {
-      imageSource: images.logoBusinessInsider,
-      altText: "Business insider logo",
+      imageSource: images.logoDainik,
+      altText: "Dainik jagaran logo",
     },
     {
-      imageSource: images.logoNewYorkTimes,
-      altText: "New york times logo",
+      imageSource: images.logoNdtv,
+      altText: "ndtv logo",
     },
     {
-      imageSource: images.logoForbes,
-      altText: "Forbes logo",
+      imageSource: images.logoTimesOfIndia,
+      altText: "Times of india logo",
     },
     {
-      imageSource: images.logoUsaToday,
-      altText: "Usa today logo",
+      imageSource: images.logoIndiaTv,
+      altText: "India tv logo",
     },
   ];
   return (

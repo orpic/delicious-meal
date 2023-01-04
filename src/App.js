@@ -5,6 +5,7 @@ import {
   HeaderSection,
   HowItWorksSection,
   MainHeroSection,
+  MealsSection,
 } from "./components";
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <MainHeroSection />
       <FeaturedSection />
       <HowItWorksSection />
+      <MealsSection />
     </div>
   );
 }

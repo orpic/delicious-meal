@@ -16,15 +16,15 @@ const MainHeroSection = () => {
       <div className="hero">
         <div className="hero-text-box">
           <h1 className="heading-primary">
-            A healthy meal delivered to your door, every single day
+            Healthy meat delivered to your door, every single day
           </h1>
           <p className="hero-description">
-            The smart 365-days-per-year food subscription that will make you eat
-            healthy again. Tailored to your personal tastes and nutritional
-            needs.
+            Easy Meat is the first technology driven, fresh meat retail outlet
+            chain in Kanpur. We facilitate smart 365-days subscription with
+            hygienic meat with our 8 outlets.
           </p>
           <a href="#cta" className="btn btn--full margin-right-sm">
-            Start eating well
+            Eat fresh meat
           </a>
 
           <a href="#how" className="btn btn--outline">
@@ -33,7 +33,7 @@ const MainHeroSection = () => {
           <div className="delivered-meals">
             <div className="delivered-imgs">
               {deliveredImages.map((eachImage) => (
-                <img src={eachImage.imageSource} alt="Customer photo" />
+                <img src={eachImage.imageSource} alt="Customer" />
               ))}
             </div>
             <p className="delivered-text">
@@ -43,7 +43,7 @@ const MainHeroSection = () => {
         </div>
         <div className="hero-img-box">
           <img
-            src={images.hero}
+            src={images.chickenBowl}
             className="hero-img"
             alt="Woman enjoying food, meals in a storage box, and food on table"
           />

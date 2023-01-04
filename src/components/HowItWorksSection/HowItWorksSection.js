@@ -11,23 +11,23 @@ const HowItWorksSection = () => {
       numText: "01",
       headingText: "Tell us what you like (and what not)",
       descriptionText:
-        "Never again waste time thinking about what to eat! Omnifood AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!",
+        "Never again waste time thinking about what to eat! Easy-Meat AI will create a 100% personalized weekly meat plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!",
       imageSrc: images.appScreen1,
       altText: "app preferences selection screen",
     },
     {
       numText: "02",
-      headingText: "Approve your weekly meal plan",
+      headingText: "Approve your weekly meat plan",
       descriptionText:
-        "Once per week, approve the meal plan generated for you by Omnifood AI. You can change ingredients, swap entire meals, or even add your own recipes.",
+        "Once per week, approve the meat plan generated for you by Easy-Meat AI. You can change timings, swap entire selects, or even add your own custom cuts.",
       imageSrc: images.appScreen2,
       altText: "app preferences selection screen",
     },
     {
       numText: "03",
-      headingText: "Tell us what you like (and what not)",
+      headingText: "Receive meat cuts at convenient time",
       descriptionText:
-        "Never again waste time thinking about what to eat! Omnifood AI will create a 100% personalized weekly meal plan just for you. It makes sure you get all the nutrients and vitamins you need, no matter what diet you follow!",
+        "Best butchers in Kanpur will cut your selected meat every day, and we will deliver it to your door whenever works best for you. You can change delivery schedule, timing and address daily!",
       imageSrc: images.appScreen3,
       altText: "app meal approving plan screen",
     },
@@ -37,7 +37,7 @@ const HowItWorksSection = () => {
       <div className="container">
         <span className="subheading">How it works</span>
         <h2 className="heading-secondary">
-          Your daily dose of health in 3 simple steps
+          Your daily dose of meat in 3 simple steps
         </h2>
       </div>
 
