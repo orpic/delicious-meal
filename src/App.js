@@ -1,6 +1,11 @@
 import React from "react";
 import "./App.css";
-import { FeaturedSection, HeaderSection, MainHeroSection } from "./components";
+import {
+  FeaturedSection,
+  HeaderSection,
+  HowItWorksSection,
+  MainHeroSection,
+} from "./components";
 
 function App() {
   return (
@@ -8,6 +13,7 @@ function App() {
       <HeaderSection />
       <MainHeroSection />
       <FeaturedSection />
+      <HowItWorksSection />
     </div>
   );
 }
