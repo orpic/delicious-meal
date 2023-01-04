@@ -1,11 +1,12 @@
 import React from "react";
 import "./App.css";
-import { HeaderSection } from "./components";
+import { HeaderSection, MainHeroSection } from "./components";
 
 function App() {
   return (
     <div className="">
       <HeaderSection />
+      <MainHeroSection />
     </div>
   );
 }
