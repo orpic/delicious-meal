@@ -1,7 +1,7 @@
 .section-testimonials {
   background-color: #fdf2e9;
   display: grid;
-  grid-template-columns: 60fr 30fr;
+  grid-template-columns: 60fr 40fr;
 
   align-items: center;
 }
