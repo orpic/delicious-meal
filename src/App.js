@@ -6,6 +6,7 @@ import {
   HowItWorksSection,
   MainHeroSection,
   MealsSection,
+  TestimonialSection,
 } from "./components";
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <FeaturedSection />
       <HowItWorksSection />
       <MealsSection />
+      <TestimonialSection />
     </div>
   );
 }
