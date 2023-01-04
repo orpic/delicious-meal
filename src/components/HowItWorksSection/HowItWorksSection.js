@@ -51,7 +51,6 @@ const HowItWorksSection = () => {
           imageSrc={howItWorksData[0].imageSrc}
           altText={howItWorksData[0].altText}
         />
-        {/* <!-- STEP 02 --> */}
         <StepImgBox
           imageSrc={howItWorksData[1].imageSrc}
           altText={howItWorksData[1].altText}
@@ -61,7 +60,6 @@ const HowItWorksSection = () => {
           headingText={howItWorksData[1].headingText}
           descriptionText={howItWorksData[1].descriptionText}
         />
-        {/* <!-- STEP 03 --> */}
         <StepTextBox
           numText={howItWorksData[2].numText}
           headingText={howItWorksData[2].headingText}
