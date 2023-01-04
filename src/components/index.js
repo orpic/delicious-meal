@@ -1,0 +1,9 @@
+export { default as CallToActionSection } from "./CallToActionSection/CallToActionSection";
+export { default as FeaturedSection } from "./FeaturedSection/FeaturedSection";
+export { default as FooterSection } from "./FooterSection/FooterSection";
+export { default as HeaderSection } from "./HeaderSection/HeaderSection";
+export { default as HowItWorksSection } from "./HowItWorksSection/HowItWorksSection";
+export { default as MainHeroSection } from "./MainHeroSection/MainHeroSection";
+export { default as MealsSection } from "./MealsSection/MealsSection";
+export { default as PricingSection } from "./PricingSection/PricingSection";
+export { default as TestimonialSection } from "./TestimonialSection/TestimonialSection";
