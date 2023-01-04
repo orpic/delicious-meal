@@ -28,7 +28,7 @@ const MealsSection = () => {
     {
       imgMeal: images.meat3,
       altImgText: "wog fullchicken",
-      tags: ["Feast"],
+      tags: ["Feast", "Gargantua"],
       title: "WOG Chicken",
       calorie: "99",
       nutriscore: "91",
