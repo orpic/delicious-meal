@@ -18,7 +18,7 @@ const SingleCuts = ({
         <div className="meal-content">
           <div className="meal-tags">
             {tags.map((tag, index) => (
-              <span className="tag tag--vegetarian">{tag}</span>
+              <span className="tag tag--cuts">{tag}</span>
             ))}
           </div>
           <p className="meal-title">{title}</p>

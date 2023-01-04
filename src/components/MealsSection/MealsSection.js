@@ -64,7 +64,7 @@ const MealsSection = () => {
 
         <div className="container all-recipes">
           <a href="#no-link" className="link">
-            See all recipes &rarr;
+            See all cuts &rarr;
           </a>
         </div>
       </section>
