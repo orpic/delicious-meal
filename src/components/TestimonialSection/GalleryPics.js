@@ -1,4 +1,5 @@
 import React from "react";
+import "./GalleryPics.css";
 
 const GalleryPics = ({ imageSrc, altText }) => {
   return (
