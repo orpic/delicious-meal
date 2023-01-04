@@ -41,6 +41,11 @@ const HeaderSection = () => {
               </a>
             </li>
           ))}
+          <li>
+            <a className="main-nav-link nav-cta" href="#cta">
+              Try for free
+            </a>
+          </li>
         </ul>
       </nav>
     </header>
