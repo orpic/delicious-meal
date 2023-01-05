@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/delicious-meal/static/css/main.ba65f8f8.css",
+    "main.js": "/delicious-meal/static/js/main.ab05fae4.js",
+    "static/media/gallery-3.jpg": "/delicious-meal/static/media/gallery-3.731f258cbe385a794f06.jpg",
+    "static/media/chickenHero.png": "/delicious-meal/static/media/chickenHero.b93f14bbe3656f0ac534.png",
+    "static/media/gallery-8.jpg": "/delicious-meal/static/media/gallery-8.3fd23b6fa8a6cfc675be.jpg",
+    "static/media/gallery-11.jpg": "/delicious-meal/static/media/gallery-11.67a76789ac319fd33cbf.jpg",
+    "static/media/misc-eating.jpg": "/delicious-meal/static/media/misc-eating.775d2a56d434931956c6.jpg",
+    "static/media/gallery-10.jpg": "/delicious-meal/static/media/gallery-10.6c0ef94f15853f1f839d.jpg",
+    "static/media/meat-3.jpg": "/delicious-meal/static/media/meat-3.e58bc5cb008ec831a19f.jpg",
+    "static/media/gallery-6.jpg": "/delicious-meal/static/media/gallery-6.4d07d3700a4529f44e21.jpg",
+    "static/media/gallery-1.jpg": "/delicious-meal/static/media/gallery-1.8d1c2bdaae64b1a142cf.jpg",
+    "static/media/gallery-7.jpg": "/delicious-meal/static/media/gallery-7.03e911ebe1088a99e19c.jpg",
+    "static/media/gallery-4.jpg": "/delicious-meal/static/media/gallery-4.b232ea04d6321bbf5eaf.jpg",
+    "static/media/gallery-2.jpg": "/delicious-meal/static/media/gallery-2.3a89ec2e4f242f9f4d3e.jpg",
+    "static/media/gallery-12.jpg": "/delicious-meal/static/media/gallery-12.24b3dc4170883f4966f8.jpg",
+    "static/media/gallery-9.jpg": "/delicious-meal/static/media/gallery-9.3c00ea7c3cd40d419bf5.jpg",
+    "static/media/gallery-5.jpg": "/delicious-meal/static/media/gallery-5.29b5105407bbb57ce662.jpg",
+    "static/media/meat-1.jpg": "/delicious-meal/static/media/meat-1.502aba243737d1026ac6.jpg",
+    "static/media/app-screen-2.png": "/delicious-meal/static/media/app-screen-2.9f09beff9c1f11573ee5.png",
+    "static/media/app-screen-3.png": "/delicious-meal/static/media/app-screen-3.8840901f2b4ebc814629.png",
+    "static/media/app-screen-1.png": "/delicious-meal/static/media/app-screen-1.d60a3c2bea35203a68d7.png",
+    "static/media/meat-2.jpg": "/delicious-meal/static/media/meat-2.d989562c848c22f3a592.jpg",
+    "static/media/logo-india-tv.png": "/delicious-meal/static/media/logo-india-tv.49fd6bc380b01cdb42f9.png",
+    "static/media/customer-steve.jpg": "/delicious-meal/static/media/customer-steve.0c8a0e48c501c7db3624.jpg",
+    "static/media/logo-zee-news.png": "/delicious-meal/static/media/logo-zee-news.9dfdb421479e073198cb.png",
+    "static/media/easy-meat.png": "/delicious-meal/static/media/easy-meat.7acef98101ebef868952.png",
+    "static/media/logo-ndtv.png": "/delicious-meal/static/media/logo-ndtv.a99ee2b3d46e1962bf9e.png",
+    "static/media/logo-dainik.png": "/delicious-meal/static/media/logo-dainik.c12dd19be330f563b0f0.png",
+    "index.html": "/delicious-meal/index.html",
+    "main.ba65f8f8.css.map": "/delicious-meal/static/css/main.ba65f8f8.css.map",
+    "main.ab05fae4.js.map": "/delicious-meal/static/js/main.ab05fae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba65f8f8.css",
+    "static/js/main.ab05fae4.js"
+  ]
+}
