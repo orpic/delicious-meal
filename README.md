@@ -4,8 +4,8 @@ A reponsive landing page for a meat subscription with React.
 
 ## Deployment
 
-`https://orpic.github.io/delicious-meal/`
+https://orpic.github.io/delicious-meal/
 
 ## Code
 
-`https://github.com/orpic/delicious-meal`
+https://github.com/orpic/delicious-meal
