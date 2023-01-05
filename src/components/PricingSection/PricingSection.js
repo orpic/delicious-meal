@@ -10,17 +10,18 @@ const PricingSection = () => {
     {
       planClassName: "pricing-plan pricing-plan--starter",
       planName: "Starter",
-      planAmount: 5000,
+      planAmount: 4200,
       planPoints: [
         "1 meal per day",
         "Order from 11am to 9pm",
         "Delivery is free",
+        "",
       ],
     },
     {
       planClassName: "pricing-plan pricing-plan--complete",
       planName: "Heavy Duty",
-      planAmount: 15000,
+      planAmount: 6000,
       planPoints: [
         "1 meal per day",
         "Order from 11am to 9pm",

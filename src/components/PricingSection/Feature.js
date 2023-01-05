@@ -1,4 +1,5 @@
 import React from "react";
+import "./Feature.css";
 
 const Feature = ({ imageSrc, featureTitle, featureText }) => {
   return (
