@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import {
+  CallToActionSection,
   FeaturedSection,
   HeaderSection,
   HowItWorksSection,
@@ -20,6 +21,7 @@ function App() {
       <MealsSection />
       <TestimonialSection />
       <PricingSection />
+      <CallToActionSection />
     </div>
   );
 }

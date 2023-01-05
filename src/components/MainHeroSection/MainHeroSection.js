@@ -37,7 +37,7 @@ const MainHeroSection = () => {
               ))}
             </div>
             <p className="delivered-text">
-              <span>250,000+</span> meals delivered last year!
+              <span>500kg +</span> meat delivered last year!
             </p>
           </div>
         </div>
