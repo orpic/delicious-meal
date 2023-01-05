@@ -22,7 +22,7 @@ const FooterSection = () => {
     },
     {
       navFooterHeading: "Company",
-      links: ["About Omnifood", "For Business", "Cooking partners", "Careers"],
+      links: ["About Easy Meat", "For Business", "Food partners", "Careers"],
     },
     {
       navFooterHeading: "Account",
@@ -53,8 +53,8 @@ const FooterSection = () => {
             </ul>
 
             <p className="copyright">
-              Copyright &copy; <span className="year">2027</span> by Omnifood,
-              Inc. All rights reserved.
+              Copyright &copy; <span className="year">2023</span> by Easy Meat
+              Pvt. Ltd. All rights reserved.
             </p>
           </div>
 
@@ -62,15 +62,15 @@ const FooterSection = () => {
             <p className="footer-heading">Contact us</p>
             <address className="contacts">
               <p className="address">
-                623 Harrison St., 2nd Floor, San Francisco, CA 94107
+                Charan Singh Colony, Kanpur, Uttar Pradesh 208012
               </p>
               <p>
                 <a className="footer-link" href="tel:415-201-6370">
-                  415-201-6370
+                  7080 562 211
                 </a>
                 <br />
-                <a className="footer-link" href="mailto:hello@omnifood.com">
-                  hello@omnifood.com
+                <a className="footer-link" href="mailto:care@easymeat.com">
+                  care@easymeat.com
                 </a>
               </p>
             </address>
