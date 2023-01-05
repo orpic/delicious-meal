@@ -3,6 +3,7 @@ import "./App.css";
 import {
   CallToActionSection,
   FeaturedSection,
+  FooterSection,
   HeaderSection,
   HowItWorksSection,
   MainHeroSection,
@@ -22,6 +23,7 @@ function App() {
       <TestimonialSection />
       <PricingSection />
       <CallToActionSection />
+      <FooterSection />
     </div>
   );
 }

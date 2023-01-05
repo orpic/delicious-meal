@@ -51,6 +51,9 @@ import iconHealthy from "../assets/icon-recommendation.png";
 import iconFresh from "../assets/icon-fresh.png";
 import iconRecycle from "../assets/icon-recycle.png";
 import iconPause from "../assets/icon-pause.png";
+import socialInstagram from "../assets/social-instagram.png";
+import socialTwitter from "../assets/social-twitter.png";
+import socialFacebook from "../assets/social-facebook.png";
 
 // eslint-disable-next-line
 export default {
@@ -101,4 +104,8 @@ export default {
   iconFresh,
   iconRecycle,
   iconPause,
+
+  socialInstagram,
+  socialTwitter,
+  socialFacebook,
 };
