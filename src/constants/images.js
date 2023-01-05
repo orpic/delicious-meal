@@ -46,6 +46,12 @@ import eating from "../assets/misc-eating.jpg";
 import easyMeatLogo from "../assets/easy-meat.png";
 import chickenBowl from "../assets/chickenHero.png";
 
+//icons
+import iconHealthy from "../assets/icon-recommendation.png";
+import iconFresh from "../assets/icon-fresh.png";
+import iconRecycle from "../assets/icon-recycle.png";
+import iconPause from "../assets/icon-pause.png";
+
 // eslint-disable-next-line
 export default {
   appScreen1,
@@ -90,4 +96,9 @@ export default {
 
   easyMeatLogo,
   chickenBowl,
+
+  iconHealthy,
+  iconFresh,
+  iconRecycle,
+  iconPause,
 };

@@ -6,6 +6,7 @@ import {
   HowItWorksSection,
   MainHeroSection,
   MealsSection,
+  PricingSection,
   TestimonialSection,
 } from "./components";
 
@@ -18,6 +19,7 @@ function App() {
       <HowItWorksSection />
       <MealsSection />
       <TestimonialSection />
+      <PricingSection />
     </div>
   );
 }
