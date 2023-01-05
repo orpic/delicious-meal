@@ -12,7 +12,7 @@ Deployed with Github Pages - [Link to site](https://orpic.github.io/delicious-me
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/media/githubDelicious.png)
 
 ## Run Locally
 
