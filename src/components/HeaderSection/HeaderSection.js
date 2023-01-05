@@ -25,7 +25,7 @@ const HeaderSection = () => {
   return (
     <header className="header">
       <a href="#no_link">
-        <img className="logo" alt="Omnifood logo" src={images.easyMeatLogo} />
+        <img className="logo" alt="Easy Meat logo" src={images.easyMeatLogo} />
       </a>
 
       <nav className="main-nav">

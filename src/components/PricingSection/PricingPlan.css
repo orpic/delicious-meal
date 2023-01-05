@@ -75,3 +75,9 @@
   line-height: 1.6;
   text-align: center;
 }
+
+@media (max-width: 44em) {
+  .pricing-plan {
+    width: 100%;
+  }
+}
