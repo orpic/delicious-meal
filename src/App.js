@@ -14,7 +14,7 @@ import {
 
 function App() {
   return (
-    <div className="">
+    <>
       <HeaderSection />
       <MainHeroSection />
       <FeaturedSection />
@@ -24,7 +24,7 @@ function App() {
       <PricingSection />
       <CallToActionSection />
       <FooterSection />
-    </div>
+    </>
   );
 }
 
